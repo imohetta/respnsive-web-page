@@ -58,7 +58,7 @@
 @media only screen and (max-width: 1440px){
     body{
         width: 100%;
-        background-color: rgb(15, 15, 15);
+/*         background-color: rgb(15, 15, 15); */
         background-image: url("https://github.com/imohetta/responsive-registration-page/bg-intro-desktop.png");
         display: flex;
         align-items: center;
