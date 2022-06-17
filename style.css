@@ -10,7 +10,7 @@
 @media only screen and (max-width: 375px){
     
     body{
-        background-image: url(bg-intro-mobile.png);
+        background-image: url(https://github.com/imohetta/responsive-registration-page/blob/main/bg-intro-mobile.png);
         width: 100%;
     }
 
@@ -59,7 +59,7 @@
     body{
         width: 100%;
         background-color: rgb(15, 15, 15);
-        background-image: url(bg-intro-desktop.png);
+        background-image: url(https://github.com/imohetta/responsive-registration-page/blob/main/bg-intro-desktop.png);
         display: flex;
         align-items: center;
         justify-content: center;
